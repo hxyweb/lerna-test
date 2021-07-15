@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "husky": "^7.0.1",
     "lodash": "^4.17.21",
     "moduleB": "^0.0.1",
     "react": "^17.0.2"
-  }
+  },
+  "gitHead": "9a35ce671db4d1531761047f78413021c610c538"
 }
