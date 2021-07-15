@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "husky": "^7.0.1",
     "jquery": "^3.6.0",
     "lodash": "^4.17.21"
   },
-  "gitHead": "9a35ce671db4d1531761047f78413021c610c538"
+  "gitHead": "c178c2d1f8898f6665951ee4fb4f68b93d32287e"
 }
