@@ -1,6 +1,6 @@
 {
   "name": "moduleA",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "husky": "^7.0.1",
     "lodash": "^4.17.21",
-    "moduleB": "^0.0.2",
+    "moduleB": "^0.0.3",
     "react": "^17.0.2"
   },
   "gitHead": "c178c2d1f8898f6665951ee4fb4f68b93d32287e"
